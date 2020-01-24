@@ -1,0 +1,16 @@
+{
+"companyName": "Skanska AS",
+"productName": "InteractivVisualisation_2019.3.0URP",
+"productVersion": "0.1",
+"dataUrl": "0124.data.unityweb",
+"wasmCodeUrl": "0124.wasm.code.unityweb",
+"wasmFrameworkUrl": "0124.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f3"
+}
